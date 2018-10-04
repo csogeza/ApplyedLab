@@ -1,0 +1,565 @@
+21
+ H=0 L=0 KN2
+
+C
+ K=0 LN2
+
+C1
+ H=0 L=0 KN2
+
+21/M
+ H=0 L=0 KN2
+
+2/B
+ L=0 KN2
+
+2/C
+ K=0 LN2
+
+21/B
+ L=0 KN2
+ H=0 K=0 LN2
+
+21/A
+ K=0 HN2
+ H=0 L=0 KN2
+
+21/C
+ K=0 LN2
+ H=0 L=0 KN2
+
+21/N
+ K=0 L+HN2
+ H=0 L=0 KN2
+
+2/C
+ K=0 LN2
+
+2221
+ H=0 K=0 LN2
+
+21212
+ K=0 L=0 HN2 
+ H=0 L=0 KN2
+
+212121
+ K=0 L=0 HN2 
+ H=0 L=0 KN2
+ H=0 K=0 LN2
+
+MC21
+ K=0 LN2 
+
+CC2
+ H=0 LN2
+ K=0 LN2
+ 
+MA2
+ K=0 HN2
+
+CA21
+ H=0 LN2
+ K=0 HN2
+
+NC2
+ H=0 K+LN2
+ K=0 LN2
+ 
+MN21
+ K=0 L+HN2
+
+BA2
+ H=0 KN2
+ K=0 HN2
+
+NA21
+ H=0 K+LN2
+ K=0 HN2
+
+NN2
+ H=0 K+LN2
+ K=0 L+HN2
+
+BM2
+ H=0 KN2
+
+DD2
+ H=0 K+LN4
+ K=0 L+HN4
+
+NNN
+ H=0 K+LN2
+ K=0 L+HN2
+ L=0 H+KN2
+
+CCM
+ H=0 LN2
+ K=0 LN2
+
+BAN
+ H=0 KN2
+ K=0 HN2
+ L=0 H+KN2
+
+MMA
+ L=0 HN2
+
+NNA
+ H=0 K+LN2
+ K=0 L+HN2
+ L=0 HN2
+
+MNA
+ K=0 L+HN2
+ L=0 HN2
+
+CCA
+ H=0 LN2
+ K=0 LN2
+ L=0 HN2
+
+BAM
+ H=0 KN2
+ K=0 HN2
+
+CCN
+ H=0 LN2
+ K=0 LN2
+ L=0 H+KN2
+
+BCM
+ H=0 KN2
+ K=0 LN2
+
+NNM
+ H=0 K+LN2
+ K=0 L+HN2
+
+MMN
+ L=0 H+KN2
+
+BCN
+ H=0 KN2
+ K=0 LN2
+ L=0 H+KN2
+
+BCA
+ H=0 KN2
+ K=0 LN2
+ L=0 HN2
+
+NMA
+ H=0 K+LN2
+ L=0 HN2
+
+MCM
+ H=0 KN2
+ 
+MCA
+ K=0 LN2
+ L=0 HN2
+
+DDD
+ H=0 K+LN2
+ K=0 L+HN2
+ L=0 H+KN2
+
+41
+ H=0 K=0 LN4
+
+42
+ H=0 K=0 LN2
+
+43
+ H=0 K=0 LN4
+
+42/M
+ H=0 K=0 LN2
+
+4/N
+ L=0 H+KN2
+
+42/N
+ H=0 K=0 LN2
+ L=0 H+KN2
+
+41/A
+ L=0 HN2
+ L=0 KN2
+ H=0 K=0 LN4
+
+4212
+ K=0 L=0 HN2
+
+4122
+ H=0 K=0 LN4
+
+41212
+ H=0 K=0 LN4
+ H=0 L=0 HN2
+
+4222
+ H=0 K=0 LN2
+
+42212
+ H=0 K=0 LN2
+ K=0 L=0 HN2
+
+4322
+ H=0 K=0 LN4
+
+43212
+ H=0 K=0 LN4
+ K=0 L=0 HN2
+
+4BM
+ H=0 KN2
+
+42CM
+ H=0 LN2
+
+42NM
+ H=0 K+LN2
+
+4CC
+ H=0 LN2
+ H=K LN2
+
+4NC
+ H=0 K+LN2
+ H=K LN2
+
+42MC
+ H=K LN2
+
+42BC
+ H=0 KN2
+ K=0 HN2
+ H=K LN2
+
+4CM
+ H=0 LN2
+ K=0 LN2
+ H=K LN2
+
+41MD
+ H=K 2H+LN4
+
+41CD
+ H=0 LN2
+ K=0 LN2
+ H=K 2H+LN4
+
+-42C
+ H=K LN2
+
+-421M
+ K=0 L=0 HN2
+
+-421C
+ H=K LN2
+ K=0 L=0 HN2
+
+-4C2
+ H=0 LN2
+ K=0 LN2
+
+-4B2
+H=0 KN2
+
+-4N2
+ H=0 K+LN2
+
+-42D
+ H=K 2H+LN4
+
+4/MCC
+ H=0 LN2
+ K=0 LN2
+ H=K LN2
+
+4/NBM
+ L=0 H+KN2
+ H=0 KN2
+ K=0 HN2
+
+4/NNC
+ L=0 H+KN2
+ H=0 K+LN2
+ K=0 L+HN2
+ H=K LN2
+
+4/MBM
+ H=0 KN2
+ K=0 HN2
+
+4/MNC
+ H=0 K+LN2
+ K=0 L+HN2
+
+4/NMM
+ L=0 H+KN2
+
+4/NCC
+ L=0 H+KN2
+ H=0 LN2
+ K=0 LN2
+ H=K LN2
+
+42/MMC
+ H=K LN2
+
+42/MCM
+ H=0 LN2
+ K=0 LN2
+
+42/NBC
+ L=0 H+KN2
+ H=0 KN2
+ K=0 HN2
+ H=K LN2
+
+42/NNM
+ L=0 H+KN2
+ H=0 K+LN2
+ K=0 L+HN2
+
+42/MBC
+ H=0 KN2
+ K=0 HN2
+ H=K LN2
+
+42/MNM
+ H=0 K+LN2
+ K=0 L+HN2
+
+42/NMC
+ L=0 H+KN2
+ H=K LN2
+
+42/NCM
+ L=0 H+KN2
+ H=0 LN2
+ K=0 LN2
+
+41/AMD
+ L=0 HN2
+ H=K 2H+LN4
+
+4/MCM
+ H=0 LN2 
+ K=0 LN2
+
+41/ACD
+ L=0 HN2
+ H=0 LN2
+ K=0 LN2
+ H=K 2H+LN4
+
+31
+ H=0 K=0 LN3
+
+32
+ H=0 K=0 LN3
+
+3112
+ H=0 K=0 LN3
+
+3121
+ H=0 K=0 LN3
+
+3212
+ H=0 K=0 LN3
+
+3221
+ H=0 K=0 LN3
+
+3C1
+ H=K LN2
+
+31C
+ H=K LN2
+
+-3C1
+ H=-K LN2
+
+-31C
+ H=K LN2
+
+3C
+ H=-K LN2
+ K=0 LN2
+ H=0 LN2
+
+3CR
+ H=K LN2 
+
+-3C
+ H=-K LN2
+ H=0 LN2
+ K=0 LN2
+ 
+-3CR
+ H=K LN2
+ 
+61
+ H=0 K=0 LN6
+
+65
+ H=0 K=0 LN6
+
+62
+ H=0 K=0 LN3
+
+64
+ H=0 K=0 LN3
+63
+ H=0 K=0 LN2
+
+63/M
+ H=0 K=0 LN2
+
+6122
+ H=0 K=0 LN6
+
+6522
+ H=0 K=0 LN6
+
+6222
+ H=0 K=0 LN3
+
+6422
+ H=0 K=0 LN3
+
+6322
+ H=0 K=0 LN2
+
+6CC
+ H=K LN2
+ H=-K LN2
+
+63CM
+ H=-K LN2
+
+63MC
+ H=K LN2
+
+-6C2
+  H=-K LN2
+
+-62C
+ H=K LN2
+
+6/MMM
+ H=K LN2
+
+6/MCC
+ H=-K LN2
+ H=K LN2
+
+63/MCM
+ H=-K LN2
+
+63/MMC
+ H=K LN2
+
+213
+ K=0 L=0 HN2
+ H=0 L=0 KN2
+ H=0 K=0 LN2
+
+N3
+ H=0 K+LN2
+ K=0 L+HN2
+ L=0 H+KN2
+
+D3
+ H=0 K+LN2
+ K=0 L+HN2
+ L=0 H+KN2
+
+A3
+ H=0 KN2
+ K=0 LN2
+ L=0 HN2
+
+4232
+ K=0 L=0 HN2
+ H=0 L=0 KN2
+ H=0 K=0 LN2
+
+4132
+ K=0 L=0 HN4
+ H=0 L=0 KN4
+ H=0 K=0 LN4
+
+432
+ K=0 L=0 HN2
+ H=0 L=0 KN2
+ H=0 K=0 LN2
+ 
+
+4332
+ K=0 L=0 HN4
+ H=0 L=0 KN4
+ H=0 K=0 LN4
+
+-43N
+ H=K LN2
+ K=L HN2
+ L=H KN2
+
+-43C
+ H=K LN2
+ K=L HN2
+ L=H KN2
+
+-43D
+ H=K 2H+LN4
+ K=L 2K+HN4
+ L=H 2L+KN4
+
+N3N
+ H=K LN2
+ K=L HN2
+ L=H KN2
+ H=0 K+LN2
+ K=0 L+HN2
+ L=0 H+KN2
+
+M3N
+ H=K LN2
+ K=L HN2
+ L=H KN2
+ 
+N3M
+ H=0 K+LN2
+ K=0 L+HN2
+ L=0 H+KN2
+
+M3C
+ H=K LN2
+ K=L HN2
+ L=H KN2
+
+D3M
+ H=0 K+LN4
+ K=0 L+HN4
+ L=0 H+KN4
+
+D3C
+ H=K LN2
+ K=L HN2
+ L=H KN2
+ H=0 K+LN4
+ K=0 L+HN4
+ L=0 H+KN4
+ 
+A3D
+ H=K 2H+LN4
+ K=L 2K+HN4
+ L=H 2L+KN4
+ H=0 KN2
+ K=0 LN2
+ L=0 HN2
+

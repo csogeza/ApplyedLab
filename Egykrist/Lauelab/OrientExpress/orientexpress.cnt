@@ -1,0 +1,35 @@
+:Base OrientExpress.hlp
+:Title OrientExpress Help
+1 Introduction
+2 OrientExpress version 3.3.=IDH_version
+2 Goals of OrientExpress=IDH_goals
+1 Data
+2 Input Data=IDH_input_data
+2 Space group=IDH_space_group
+2 Input Data example=IDH_input_data_example
+2 Measurement of the spot coordinates=IDH_coordinates_measure
+1 Orientation Matrix
+2 Orientation matrix definition=IDH_matrix_definition
+2 Orientation matrix meaning=IDH_matrix_meaning
+2 Orientation matrix acquisition=IDH_matrix_acquisition
+2 Orientation matrix refinement=IDH_matrix_refinement
+2 Crystal reorientation=IDH_crystal_reorientation
+1 Indexing
+2 Bragg relflections indexing process=IDH_indexing
+2 Selection of the right solution=IDH_selection
+2 Zone lines=IDH_zone_lines
+1 Simulation
+2 Calculation of the simulated Laue pattern=IDH_simulation_pattern
+2 Generation of the reflections=IDH_generation_reflections
+1 Menus
+2 Main menu=IDH_main_menu
+2 Simulation menu=IDH_simulation_menu
+2 Bitmap picture menu=IDH_load_bitmap
+2 Digitazer menu=IDH_digitazer
+1 Using the program
+2 Indexing strategy=IDH_indexing_strategy
+2 Special cases=IDH_special_cases
+2 Supplied examples=IDH_supplied_examples
+2 First example of indexation=IDH_first_example
+2 Second example of indexation=IDH_second_example
+2 Example of simulation=IDH_simulation_example
