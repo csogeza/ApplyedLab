@@ -1,0 +1,14 @@
+nom_groupe réduit:D3M
+nom_groupe trouvé:D3M
+condition lue: H=0 K+LN4
+nb_cond  1 deb,fin:  2  4 cmdlue:H=0
+nb_cond  2 deb,fin:  6  9 cmdlue:K+LN4
+ If H=0   1 Do K+LN4  24
+condition lue: K=0 L+HN4
+nb_cond  1 deb,fin:  2  4 cmdlue:K=0
+nb_cond  2 deb,fin:  6  9 cmdlue:L+HN4
+ If K=0   5 Do L+HN4  25
+condition lue: L=0 H+KN4
+nb_cond  1 deb,fin:  2  4 cmdlue:L=0
+nb_cond  2 deb,fin:  6  9 cmdlue:H+KN4
+ If L=0   9 Do H+KN4  23
